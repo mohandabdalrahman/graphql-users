@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "mohand",
+      "author": "typicode"
+    },
+    {
+      "id": "23",
+      "firstName": "hamada",
+      "age": 29,
+      "companyId": "1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "apple",
+      "desc": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "facebook",
+      "desc": "web"
+    }
+  ]
+}
